@@ -1,0 +1,12 @@
+{
+  "name": "atmosphere-weather-intelligence",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A shareable weather intelligence dashboard powered by Open-Meteo.",
+  "type": "module",
+  "packageManager": "npm@10.8.2",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  }
+}
